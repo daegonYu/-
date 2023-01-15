@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item1"
+        android:title="子(자) 23:30 - 01:29">
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:title="丑(축) 01:30 - 03:29">
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:title="寅(인) 03:30 - 05:29">
+    </item>
+    <item
+        android:id="@+id/item4"
+        android:title="卯(묘) 05:30 - 07:29">
+    </item>
+    <item
+        android:id="@+id/item5"
+        android:title="辰(진) 07:30 - 09:29">
+    </item>
+    <item
+        android:id="@+id/item6"
+        android:title="巳(사) 09:30 - 11:29">
+    </item>
+    <item
+        android:id="@+id/item7"
+        android:title="午(오) 11:30 - 13:29">
+    </item>
+    <item
+        android:id="@+id/item8"
+        android:title="未(미) 13:30 - 15:29">
+    </item>
+    <item
+        android:id="@+id/item9"
+        android:title="申(신) 15:30 - 17:29">
+    </item>
+    <item
+        android:id="@+id/item10"
+        android:title="酉(유) 17:30 - 19:29">
+    </item>
+    <item
+        android:id="@+id/item11"
+        android:title="戌(술) 19:30 - 21:29">
+    </item>
+    <item
+        android:id="@+id/item12"
+        android:title="亥(해) 21:30 - 23:29">
+    </item>
+
+</menu>
