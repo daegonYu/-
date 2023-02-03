@@ -20,8 +20,7 @@
 
 로또 기능 3
 
-![image](https://user-images.githubusercontent.com/83442902/216618693-4211cfe0-a686-4b64-90ad-2d1410d05549.png)
-
+![image](https://user-images.githubusercontent.com/83442902/216619270-bccb9d38-4b23-4d91-b6d5-007fced0c438.png)
 
 로또 기능 4
 
